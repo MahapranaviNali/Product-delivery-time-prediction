@@ -1,0 +1,11 @@
+Order Date,Delivery Date,Distance,Traffic Level,Weather,Vehicle Type
+2024-06-01,2024-06-03,15,High,Rainy,Car
+2024-06-02,2024-06-02,5,Low,Clear,Bike
+2024-06-03,2024-06-05,25,Medium,Clear,Truck
+2024-06-04,2024-06-04,10,Medium,Rainy,Car
+2024-06-05,2024-06-06,18,High,Stormy,Truck
+2024-06-06,2024-06-06,7,Low,Clear,Bike
+2024-06-07,2024-06-09,30,High,Rainy,Car
+2024-06-08,2024-06-08,3,Low,Clear,Bike
+2024-06-09,2024-06-10,12,Medium,Rainy,Car
+2024-06-10,2024-06-12,22,High,Stormy,Truck
